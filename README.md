@@ -1,4 +1,4 @@
-# cpnt260-achievement-round-1
+# cpnt260-project-board
 
 Name: Preetpal Dhaliwal
 
